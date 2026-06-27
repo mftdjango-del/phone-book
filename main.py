@@ -1,6 +1,7 @@
 import csv
 import os
 import random
+import abc
 
 AP_KEY = "dsSDR#WTGR$E32R%$GTDSFAR#$RDFFDFrtfihtgf2541545dg4edt4e48"
 # FILENAME = 'contact.csv'
