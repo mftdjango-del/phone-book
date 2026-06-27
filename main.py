@@ -275,3 +275,4 @@ if __name__ == "__main__":
 # print(f"\nrex is Animal: {isinstance(rex, Animal)}")
 # print(f"rex is Cat: {isinstance(rex, Cat)}")
 # print(rex)
+print("test")
