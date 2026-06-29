@@ -28,6 +28,7 @@ AP_KEY = "dsSDR#WTGR$E32R%$GTDSFAR#$RDFFDFrtfihtgf2541545dg4edt4e48"
 #             writer.writerow(contact)
 #     print("Saved")
 
+print("hello world")
 
 
 # def add_contact(contacts:list):
