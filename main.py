@@ -7,6 +7,7 @@ AP_KEY = "dsSDR#WTGR$E32R%$GTDSFAR#$RDFFDFrtfihtgf2541545dg4edt4e48"
 # FILENAME = 'contact.csv'
 # FIELDnAMES = ['name', 'phone', 'email']
 
+print("test")
 
 # def load_contacts():
 #     contacts = []
