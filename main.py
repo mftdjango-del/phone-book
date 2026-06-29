@@ -38,7 +38,7 @@ AP_KEY = "dsSDR#WTGR$E32R%$GTDSFAR#$RDFFDFrtfihtgf2541545dg4edt4e48"
 #     save_contact(contacts=contacts)
 #     return "Contact Added"
 
-
+print("test")
 
 # def search_contact(contacts):
 #     query = input("Search name: ").strip().lower()
