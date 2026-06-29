@@ -29,7 +29,7 @@ AP_KEY = "dsSDR#WTGR$E32R%$GTDSFAR#$RDFFDFrtfihtgf2541545dg4edt4e48"
 #     print("Saved")
 
 print("hello world")
-
+print("God")
 
 # def add_contact(contacts:list):
 #     name = input('Name: ').strip().lower()
